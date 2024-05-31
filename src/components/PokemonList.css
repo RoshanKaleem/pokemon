@@ -1,0 +1,33 @@
+.pokemon-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.pokemon-item {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.pokemon-item:hover {
+  background-color: #f0f0f0;
+}
+
+.pokemon-list-image {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.pokemon-name {
+  font-size: 1.2em;
+}
+
+.header {
+  color:white;
+  background-color: #2E7DF6;
+  margin: 0;
+  padding: 20px;
+}
