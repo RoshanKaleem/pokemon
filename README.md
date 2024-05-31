@@ -27,13 +27,23 @@ This project is a React application developed using TypeScript, Redux Toolkit, a
 
 ## Usage
 
-To start the development server:
+To start the development server with API URL configured in package.json:
 
 ```bash
-npm start
+npm run start:dev
 ```
+
+
 
 To run the test:
 
 ```bash
 npm test
+```
+
+<img width="740" alt="image" src="https://github.com/RoshanKaleem/pokemon/assets/65737218/819c1a5b-30a7-4de8-82c4-e3a18709d20a">
+
+<img width="364" alt="image" src="https://github.com/RoshanKaleem/pokemon/assets/65737218/edb38e2c-8193-4bcb-8212-476aef3b37c6">
+
+
+
